@@ -1,0 +1,32 @@
+fastmcp
+openai
+python-dotenv
+pyngrok
+
+# google-api-python-client
+# google-auth-httplib2
+# google-auth-oauthlib
+# google-genai
+
+# discord.py[voice]
+# discord-ext-voice-recv
+# pillow
+
+
+# sounddevice
+# soundfile
+
+# faiss-cpu ==1.12.0
+# sentence-transformers
+# pyautogui
+# pyscreenshot
+# # sudo apt-get install scrot
+
+# # Install AgentChat and OpenAI client from Extensions
+# autogen-agentchat 
+# autogen-ext[openai]
+# groq
+
+
+# pymodbus
+# pyserial
